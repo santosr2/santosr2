@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosr2&hide=html)
+
+<!--
+![santosr2's github stats](https://github-readme-stats.vercel.app/api?username=santosr2&show_icons=true&count_private=true&line_height=40)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosr2&repo=pullbin&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosr2&repo=queryfox&theme=buefy" />
+-->
+
 <!--
 **santosr2/santosr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
