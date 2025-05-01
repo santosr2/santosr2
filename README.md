@@ -2,12 +2,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosr2&hide=html)
 
-### Languages that I work/play with
+### Languages that I work with
 
 - Python
 - Golang
 - C
 - Bash/Perl (for automation)
+
+#### Playing with
 
 - Rust
 - Zig
