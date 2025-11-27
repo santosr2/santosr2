@@ -19,7 +19,7 @@ repos:
 
   # Markdown linting
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.45.0
+    rev: v0.46.0
     hooks:
       - id: markdownlint
         args: [--fix]
@@ -29,7 +29,8 @@ repos:
   - repo: https://github.com/codespell-project/codespell
     rev: v2.4.1
     hooks:
-      - id: codespell (also commit message)
+      - id: codespell
+        name: codespell (also commit message)
         stages: [pre-commit, commit-msg]
 
 # Configuration
