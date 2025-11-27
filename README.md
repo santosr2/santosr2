@@ -11,8 +11,13 @@
 <h3 align="center">Software/Cloud/Data Engineer 🤷‍♂️ • Builder • Automator • Learner</h3>
 
 <p align="center">
-  <a href="https://neurobits.santosr.xyz"><img src="https://img.shields.io/badge/website-neurobits.santosr.xyz-6b5b95?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=santosr2&color=blueviolet&style=for-the-badge">
+  <a href="https://neurobits.santosr.xyz">
+    <img src="https://img.shields.io/badge/Website-neurobits.santosr.xyz-7b2cff?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="webpage"/>
+  </a>
+  <a href="https://x.com/santosr_2">
+    <img src="https://img.shields.io/badge/X-@santosr__2-00c2ff?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=santosr2&style=for-the-badge&color=7b2cff" alt="Profile views" />
 </p>
 
 ---
@@ -20,69 +25,89 @@
 ## 🧠 About Me
 
 I'm a **geek** who enjoys building fast, efficient systems and exploring how code can shape thinking.  
-I love automation, low-level languages, and clean tooling that makes work *fun* again.
+I love automation, low-level languages, transforming data, and clean tooling that makes work *fun* again.
 
-- 💼 Currently working at **Workera**
-- 🌱 Learning **Rust** and **Zig**
-- ⚡ Interested in: backend systems, automation, dev tools, infra, CLI stuff
-- 🧩 Favorite mindset: _“Make it simple, then make it powerful.”_
+- 🌱 Exploring **Rust**, **Zig**, and a little **Lua / Elixir**
+- 🧰 I enjoy: backend systems, automation, dev tools, infra, CLI stuff, low-level-ish languages, infra
+- 🧩 Favorite mindset: *“Make it simple, then make it powerful.”*
+- 🧠 Side brand: **NeuroBits** — thoughts, experiments & projects
+
+<div align="right">💻</div>
+
+```bash
+$ whoami
+> rubens@santosr2
+
+$ cat /etc/profile
+> Just a geek who enjoys breaking and building things.
+
+$ skills --main
+> backend, automation, tooling, infra, CLIs
+
+$ focus --now
+> Cloud • Infra • Data • Software Engineering
+
+$ now --focus
+> NeuroBits, learning Rust & Zig, building cool stuff.
+
+$ building
+> NeuroBits, tooling, automation, infra, experiments.
+```
 
 ---
 
 ## 🔧 Tech Stack & Tools I Use
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="45" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-
-  <!-- Learning -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="45"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,c,bash,perl,typescript,neovim,docker,linux,aws,gcp,kubernetes,terraform,ansible,nginx,kafka,postgres,redis,prometheus,grafana,git,github,rust,elixir,zig,lua" alt="tools"/>
+    <!--
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="42" alt="Airflow"/>
+    -->
+  </a>
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=santosr2&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosr2&layout=compact&theme=tokyonight" />
+<p>
+  <img style="flex: 1" src="https://github-readme-stats.vercel.app/api?username=santosr2&show_icons=true&theme=tokyonight&count_private=true" alt="stats"/>
+  <!--
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santosr2&theme=tokyonight&utcOffset=-3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santosr2&theme=tokyonight"/>
+  -->
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosr2&layout=compact&theme=tokyonight" />
+  -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santosr2&theme=tokyonight" alt="repos-per-language"/>
+
+  <!--
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosr2&theme=tokyo-night">
+  </a>
+  -->
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santosr2&theme=tokyonight" alt="profile-details"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santosr2&theme=tokyonight" alt="most-commit-language"/>
+
+  <!--
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=santosr2&theme=tokyonight&hide_border=false&card_width=495">
+  </a>
+  -->
+
 </p>
 
 ---
 
-## 🧩 Featured Projects
-
-> Highlighting things you've built or want visibility on:
-
-- 🔗 [**NeuroBits**](https://neurobits.santosr.xyz) — your personal hub, philosophy + projects
-
----
-
-## 🎬 Fun Animations & Extras
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=I+build+systems.;I+automate+workflows.;I+love+clean+tooling.;I+explore+low-level+languages.;Always+learning+something+new.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=I+build+systems.;I+automate+workflows.;I+love+clean+tooling.;I+explore+low-level+languages.;Always+learning+something+new." alt="dynamic-message">
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
 <p align="center">
-  <a href="https://neurobits.santosr.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  🔥 Crafted for curious minds by <b>Rubens &lt;santosr2&gt;</b> • Updated automatically when I feel like it 😄
 </p>
-
----
-
-<p align="center">🔥 Built with ❤️ by <b>Rubens Santos</b> • Updated automatically when I feel like it 😄</p>
