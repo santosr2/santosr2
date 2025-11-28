@@ -28,7 +28,7 @@ I'm a **geek** who enjoys building fast, efficient systems and exploring how cod
 I love automation, low-level languages, transforming data, and clean tooling that makes work *fun* again.
 
 - 🌱 Exploring **Rust**, **Zig**, and a little **Lua / Elixir**
-- 🧰 I enjoy: backend systems, automation, dev tools, infra, CLI stuff, low-level-ish languages, infra
+- 🧰 I enjoy: backend systems, automation, dev tools, infra, CLI stuff, low-level-ish languages, infra and data engineering.
 - 🧩 Favorite mindset: *“Make it simple, then make it powerful.”*
 - 🧠 Side brand: **NeuroBits** — thoughts, experiments & projects
 
