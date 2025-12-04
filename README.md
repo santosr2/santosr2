@@ -28,7 +28,7 @@ I'm a **geek** who enjoys building fast, efficient systems and exploring how cod
 I love automation, low-level languages, transforming data, and clean tooling that makes work *fun* again.
 
 - 🌱 Exploring **Rust**, **Zig**, and a little **Lua / Elixir**
-- 🧰 I enjoy: backend systems, automation, dev tools, infra, CLI stuff, low-level-ish languages, infra and data engineering.
+- 🧰 I enjoy: backend systems, automation, dev tools, infra, CLI stuff, low-level-ish languages, infra and data engineering
 - 🧩 Favorite mindset: *“Make it simple, then make it powerful.”*
 - 🧠 Side brand: **NeuroBits** — thoughts, experiments & projects
 
@@ -60,8 +60,8 @@ $ building
 
 <p align="center">
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,go,c,bash,perl,typescript,neovim,docker,linux,aws,gcp,kubernetes,terraform,ansible,nginx,kafka,postgres,redis,prometheus,grafana,git,github,rust,elixir,zig,lua" alt="tools"/>
+    <a href="https://santosr2.github.io/techbadges/">
+      <img src="https://techbadges.santosr.xyz/icons?i=py,go,c,bash,perl,typescript,neovim,docker,linux,aws,gcp,kubernetes,terraform,nginx,kafka,postgres,redis,prometheus,grafana,git,github,rust,elixir,zig,lua,gitlab,debian,arch,fastapi,githubactions,js,md,nodejs,tailwind,html,ubuntu,vscode,apple" alt="tools"/>
     </a>
   </p>
   <p>
