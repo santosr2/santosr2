@@ -61,14 +61,7 @@ $ building
 <p align="center">
   <p>
     <a href="https://santosr2.github.io/techbadges/">
-      <img src="https://techbadges.santosr.xyz/icons?i=py,go,c,bash,perl,typescript,neovim,docker,linux,aws,gcp,kubernetes,terraform,nginx,kafka,postgres,redis,prometheus,grafana,git,github,rust,elixir,zig,lua,gitlab,debian,arch,fastapi,githubactions,js,md,nodejs,tailwind,html,ubuntu,vscode,apple" alt="tools"/>
-    </a>
-  </p>
-  <p>
-    <a href="jsdelivr.net">
-      <!-- https://github.com/devicons -->
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="42" alt="Airflow"/>
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="42" alt="Airflow"/>
+      <img src="https://techbadges.santosr.xyz/icons?i=py,go,c,bash,perl,typescript,neovim,docker,linux,aws,gcp,kubernetes,terraform,nginx,kafka,postgres,redis,prometheus,grafana,git,github,rust,elixir,zig,lua,gitlab,debian,arch,fastapi,githubactions,js,md,nodejs,tailwind,html,ubuntu,vscode,apple,helm,airflow" alt="tools"/>
     </a>
   </p>
 </p>
