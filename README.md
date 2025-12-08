@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Website-neurobits.santosr.xyz-7b2cff?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="webpage"/>
   </a>
   <a href="https://x.com/santosr_2">
-    <img src="https://img.shields.io/badge/X-@santosr__2-00c2ff?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
+    <img src="https://img.shields.io/badge/X-@santosr__2-00c2ff?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=santosr2&style=for-the-badge&color=7b2cff" alt="Profile views" />
 </p>
@@ -28,7 +28,7 @@ I'm a **geek** who enjoys building fast, efficient systems and exploring how cod
 I love automation, low-level languages, transforming data, and clean tooling that makes work *fun* again.
 
 - 🌱 Exploring **Rust**, **Zig**, and a little **Lua / Elixir**
-- 🧰 I enjoy: backend systems, automation, dev tools, infra, CLI stuff, low-level-ish languages, infra and data engineering
+- 🧰 I enjoy: backend systems, automation, dev tools, infra, CLI stuff, low-level-ish languages, infra, and data engineering
 - 🧩 Favorite mindset: *“Make it simple, then make it powerful.”*
 - 🧠 Side brand: **NeuroBits** — thoughts, experiments & projects
 
