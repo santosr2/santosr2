@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://neurobits.santosr.xyz">
-    <img src="https://img.shields.io/badge/Website-neurobits.santosr.xyz-7b2cff?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="webpage"/>
+    <img src="https://img.shields.io/badge/Website-neurobits.santosr.xyz-7b2cff?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="webpage" />
   </a>
   <a href="https://x.com/santosr_2">
-    <img src="https://img.shields.io/badge/X-@santosr__2-00c2ff?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@santosr__2-00c2ff?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=santosr2&style=for-the-badge&color=7b2cff" alt="Profile views" />
 </p>
