@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm <strong>Rubens [santosr2]</santosr2></strong> 👋</h1>
-<h3 align="center">Software/Cloud/Data Engineer 🤷‍♂️ • Builder • Automator • Learner</h3>
+<h3 align="center">Lead Software/Cloud/Data Engineer • Builder • Automator • Learner</h3>
 
 <p align="center">
   <a href="https://neurobits.santosr.xyz">
